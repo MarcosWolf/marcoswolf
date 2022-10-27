@@ -1,5 +1,5 @@
 # Seja bem vindo ao meu perfil.
-👋 Me chamo <b>Marcos Vinícios</b>, tenho 27 anos e sou apaixonado por programação e design. <br/>
+👋 Me chamo <b>Marcos Vinícios</b>, tenho 27 anos e sou apaixonado por programação e design. <br/><br/>
 🔭 Atualmente estou trabalhando no Atacadão como Assistente de Informática e faço trabalhos externos como Desenvolvedor Web e Designer Gráfico.
 
 ## Ferramentas e Tecnologias
