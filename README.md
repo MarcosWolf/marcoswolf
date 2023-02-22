@@ -11,5 +11,3 @@
   <img src="https://user-images.githubusercontent.com/26293082/220244550-e47dccae-f2f9-4ec4-a97f-70ec4c2e2d20.svg">
 
 </div>
-
-![MarcosWolf GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosWolf&show_icons=true&theme=radical)
