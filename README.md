@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo 🖐️</h1>
+<h1 align="center"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"> Bem-vindo <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"></h1>
 
 <div style="display:inline-block" align="center">
   <p>Trabalho em diversos projetos envolvendo <strong>Desenvolvimento Web</strong> e <strong>Design Gráfico</strong>.</p>
