@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo 🖐️</h1>
 
 <div style="display:inline-block" align="center">
-  <p>Trabalho em diversos projetos envolvendo Desenvolvimento Web e Design Gráfico.</p>
+  <p>Trabalho em diversos projetos envolvendo <strong>Desenvolvimento Web</strong> e <strong>Design Gráfico</strong>.</p>
   <p>Sinta-se a vontade para entrar em contato</p>
 </div>
 
