@@ -1,13 +1,21 @@
-## Hi there, be welcome to my profile. 🖐️
-[![Blog](https://img.shields.io/website?label=marcoswolf.com.br&style=for-the-badge&url=https://marcoswolf.com.br/)](https://marcoswolf.com.br)
-<a href="https://www.linkedin.com/in/marcoswolf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h1 align="center">Bem-vindo 🖐️</h1>
 
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://user-images.githubusercontent.com/26293082/220244356-86ed9ccd-488b-4a95-8103-081a2579a29a.svg">
-  <img src="https://user-images.githubusercontent.com/26293082/220244494-527f800c-9fd6-4428-a26f-eaf33467eff9.svg">
-  <img src="https://user-images.githubusercontent.com/26293082/220244550-e47dccae-f2f9-4ec4-a97f-70ec4c2e2d20.svg">
+<div style="display:inline-block" align="center">
+  <p>Trabalho em diversos projetos envolvendo Desenvolvimento Web e Design Gráfico.</p>
+  <p>Sinta-se a vontade para entrar em contato</p>
+</div>
+
+##
+
+<div style="display: inline-block" align="center">
+  <h3>Skills</h1>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/26293082/221216837-93f1fd7c-5926-43f6-bc47-70b6b50ad1d8.svg">
+  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/26293082/221216721-d00707b2-ab5b-41bf-9d81-bb988b06bfd6.svg">
+  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/26293082/221216393-cd1e658a-23c9-426f-9f37-19bca40a0f89.svg">
 
 </div>
