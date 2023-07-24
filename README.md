@@ -18,7 +18,7 @@
 
 #
 
-<br/><div align="center">          
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoswolf&show_icons=true&theme=midnight-purple">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswolf&layout=compact&langs_count=7&theme=midnight-purple"/>
+<br/><div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcoswolf&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=marcoswolf&layout=compact&theme=midnight-purple"/>
 </div>
