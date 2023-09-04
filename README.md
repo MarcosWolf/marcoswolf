@@ -5,7 +5,7 @@
 <p>Ao longo do tempo desenvolvi interesse por desenvolvimento de jogos através das ferramentas Multimedia Fusion, Blitz3D utilizando a linguagem Basic e a biblioteca SDL 2.0 utilizando C++.</p>
 <p>Em 2012, me formei em um curso técnico de desenvolvimento web no Centro Paula Souza, onde descobri a minha verdadeira paixão pela programação utilizando as linguagens JavaScript e PHP em conjunto com o banco de dados MySQL.</p>
 <p>Minhas primeiras experiências foram com um estágio da prefeitura trabalhando como helpdesk/manutenção de computadores e em um mercado atacadista como gestor da equipe de TI, realizando suporte técnico e desenvolvendo sistemas para ajudar na operação da loja (desde JavaScript/PHP/MySQL a Shell Script em servidor Linux).</p>
-<p>Além de Desenvolvedor, trabalho como Designer Gráfico nas horas vagas utilizando ferramentas como Photoshop e Illustrator.</p> 
+<p>Atualmente estou focado na área de <strong>desenvolvimento de Aplicações Web</strong>, porém também gosto de <strong>desenvolver jogos com Unity e C#</strong> nos momentos vagos.</p> 
 
 #
 
