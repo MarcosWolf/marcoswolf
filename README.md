@@ -1,6 +1,6 @@
 <h1 align="left">Bem-vindo ao meu perfil! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"></h1>
 
-<p>Eu me chamo <strong>Marcos Vinícios</strong>, sou <strong>Analista de Testes</strong> e <strong>Desenvolvedor</strong>. Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+<p>Eu me chamo <strong>Marcos Vinícios</strong>, sou <strong>Desenvolvedor de Software</strong> e <strong>Analista de Testes</strong>. Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
 <p>Comecei a trilhar meu caminho como desenvolvedor desde criança por incentivo da família, me lembro de utilizar o velho Frontpage que vinha junto com o pacote Office para fazer páginas de Dragon Ball.</p>
 <p>Ao longo do tempo desenvolvi interesse por desenvolvimento de jogos através das ferramentas Multimedia Fusion, Blitz3D utilizando a linguagem Basic e a biblioteca SDL 2.0 utilizando C++.</p>
 <p>Em 2012, me formei em um curso técnico de desenvolvimento web no Centro Paula Souza, onde descobri a minha verdadeira paixão pela programação utilizando as linguagens JavaScript e PHP em conjunto com o banco de dados MySQL.</p>
