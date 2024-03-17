@@ -1,6 +1,7 @@
 <h1 align="left">Bem-vindo ao meu perfil! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30"></h1>
 
-<p>Eu me chamo <strong>Marcos Vinícios</strong>, sou <strong>Desenvolvedor de Software</strong> e <strong>Analista de Testes</strong>. Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+<p>Eu me chamo <strong>Marcos Vinícios</strong>, sou <strong>Desenvolvedor de Software</strong> e <strong>Analista de Testes</strong>.</p>
+<p>Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
 
 #
 
