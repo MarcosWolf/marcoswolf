@@ -8,9 +8,9 @@
 ### Stack e práticas que utilizo
 
 - **Automação de Testes:** Selenium, Appium, RestAssured, Postman  
-- **Linguagens:** Java, C#, JavaScript (Node.js, React) 
+- **Linguagens:** Java, C#, C++, JavaScript (Node.js, React) 
 - **Bancos de Dados:** Oracle, PostgreSQL e MySQL  
-- **Boas Práticas:** TDD, BDD (Gherkin), Clean Code e princípios SOLID  
+- **Boas Práticas:** TDD, BDD, Clean Code e princípios SOLID  
 - **Metodologias Ágeis:** Scrum e Kanban  
 
 
