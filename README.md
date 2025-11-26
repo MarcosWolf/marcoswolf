@@ -11,7 +11,8 @@
 - **Linguagens:** Java, C#, C++, JavaScript (Node.js, React) 
 - **Bancos de Dados:** Oracle, PostgreSQL e MySQL  
 - **Boas Práticas:** TDD, BDD, Clean Code e princípios SOLID  
-- **Metodologias Ágeis:** Scrum e Kanban  
+- **Metodologias Ágeis:** Scrum e Kanban
+- **DevOps / CI-CD:** Docker e Jenkins  
 
 
 ---
